@@ -1,16 +1,40 @@
-## Hi there 👋
+# Arvind Kushwaha
 
-<!--
-**arvindkushwaha55/arvindkushwaha55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Java Learner
 
-Here are some ideas to get you started:
+I am a second-year Computer Science student with a focus on building strong programming fundamentals and learning Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am working on improving my understanding of programming, problem solving, object-oriented programming, and data structures. I am also exploring Artificial Intelligence and Machine Learning alongside my core computer science studies.
+
+## Currently Learning
+
+- Java
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
+- Artificial Intelligence & Machine Learning
+
+## Technical Interests
+
+- Software Development
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+
+## Languages
+
+- Java
+- Python
+
+## Projects
+
+I am currently building projects to strengthen my programming skills and gain practical experience.
+
+More projects will be added as I continue learning and exploring new technologies.
+
+## Connect
+
+- GitHub: [@arvindkushwaha55](https://github.com/arvindkushwaha55)
+- LinkedIn: [Arvind Kushwaha](https://linkedin.com/in/arvind-kushwaha-4290863b0)
