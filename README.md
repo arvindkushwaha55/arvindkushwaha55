@@ -6,9 +6,9 @@
 
 </div>
 
-## Hi, I am Arvind 👋
+## Yo, I am Arvind Kushwaha 👋
 
-I am a **frontend engineer**. I build the web and mobile apps of **[Vyana](https://vyanahealth.app)** — the screens patients use every day for medicines, lab reports and care plans.
+ I build the web and mobile apps of **[Vyana](https://vyanahealth.app)** — the screens patients use every day for medicines, lab reports and care plans.
 
 I am still learning every day, and I say that proudly. What I have is a sharp mind: I understand problems fast, I think of new ways to solve them, and I don't stop until the thing works and looks right.
 
