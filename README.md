@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arvind%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Engineer%20%7C%20Problem%20Solver&descSize=16&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arvind%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Problem%20Solver&descSize=16&descAlignY=72" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=I+build+frontend+for+Vyana;Web+%2B+Mobile+UI;Sharp+mind%2C+honest+work;I+love+innovation+and+problem+solving)](https://github.com/arvindkushwaha55)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Problem+Solver;Building+Vyana's+web+%2B+mobile+UI;Sharp+mind%2C+honest+work;I+love+innovation+and+problem+solving)](https://github.com/arvindkushwaha55)
 
 </div>
 
