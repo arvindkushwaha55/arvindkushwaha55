@@ -1,56 +1,95 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arvind%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Problem%20Solver&descSize=16&descAlignY=72" width="100%"/>
+# Arvind Kushwaha
 
-<div align="center">
+### Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Problem+Solver;Building+Vyana's+web+%2B+mobile+UI;Sharp+mind%2C+honest+work;I+love+innovation+and+problem+solving)](https://github.com/arvindkushwaha55)
+> I find what's broken, understand *why* it's broken, and ship a fix that lasts.
 
-</div>
+B.Tech student in **AI & ML at Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad**.
+I build user-facing software — web, mobile and desktop — and I test it like someone who will have to answer for it in an interview: honestly, and down to the details.
 
-<div align="center">
+Still learning every day. I say that proudly.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-</div>
+## Right now
 
-## Yo, I am Arvind Kushwaha 👋
+- Building the **web + mobile UI for [Vyana](https://vyanahealth.app)** — the screens patients use for medicines, lab reports and care plans
+- Developing **[SENTIQX](https://github.com/arvindkushwaha55/SENTIQX)** — an AI work companion for Windows, in development
+- Keeping **[Campora](https://arvindkushwaha55.github.io/campora/)** live — a campus social app for my college
 
-I work on the frontend of **[Vyana](https://vyanahealth.app)**'s web and mobile apps — the screens patients use every day for medicines, lab reports and care plans.
+---
 
-I am still learning every day, and I say that proudly. What I have is a sharp mind: I understand problems fast, I think of new ways to solve them, and I don't stop until the thing works and looks right.
+## Work
 
-## 💡 How I think
+### Vyana — Web & Mobile UI
+Contributor on the user-facing side of a healthcare product.
+
+- Phone design system and shared components, so screens stop drifting apart
+- Welcome & Today screens, reports and charts, care plans
+- The small, unglamorous fixes that make every screen feel like one app
+
+**Stack:** TypeScript · React · React Native · Expo
+
+### [Campora](https://github.com/arvindkushwaha55/campora) — Campus Social App · [Live ↗](https://arvindkushwaha55.github.io/campora/)
+A college-only social app I built and shipped end to end.
+
+- College-email-only signup, verified by the database — not just hidden in the UI
+- Feed, likes, comments, student discovery, profiles and admin moderation
+- Content moderation in the app *and* as a database backstop, plus on-device photo screening
+- No fake counts, no mock data — everything on the live site is real data
+
+**Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Supabase
+
+### [SENTIQX](https://github.com/arvindkushwaha55/SENTIQX) — AI Work Companion for Windows · *In Development*
+A desktop companion that watches your work context and helps you stay on track.
+
+- Landscape desktop window with dual themes, built step by step from my own design direction
+- Intent Guard — warns before text meant for one app gets pasted into the wrong place
+- Workspace Zone Awareness — understands split-screen zones instead of guessing
+- Native / OS work in Rust, UI and light logic in TypeScript — each layer where it belongs
+
+**Stack:** Tauri 2 · React · TypeScript · Tailwind CSS · Rust · SQLite
+
+### DermaGuard — Team Project
+Agentic AI project built with my team for the **Jaypee Agentic AI International Summit 2026, JIIT Noida (30–31 Oct 2026)**.
+
+### GPUChain — Independent Testing & Security Review
+The main contract was the team lead's. My part was trying to break it — independently.
+
+- Independent Foundry test suites — full suite **99/99 passing**
+- Slither analysis — **0 High / 0 Medium** findings
+- Timestamp-edge cases, adversarial review, and a local deploy rehearsal
+
+**Stack:** Foundry · Slither · Solidity (testing & review)
+
+---
+
+## How I work
 
 - **Problem first, code second** — understand what is broken and why, then fix it properly
 - **Simple is better** — if a user can't understand a screen in 5 seconds, the screen is wrong
 - **Make it once, use it everywhere** — shared components and design systems over copy-paste
+- **Verify, don't claim** — a thing is done when it's tested live, not when the code is written
 
-## 🔨 What I am building
+---
 
-- **Vyana (web + mobile)** — the phone design system, Welcome & Today screens, reports and charts, care plans, and the small fixes that make every screen feel like one app
-- Learning by shipping — every pull request teaches me something new
+## Tools I actually use
 
-## 📊 My GitHub
+| Area | Tools |
+|---|---|
+| Frontend | TypeScript, React, Next.js, React Native, Expo, Tailwind CSS |
+| Desktop & data | Tauri, Rust, Supabase, SQLite |
+| Testing & review | Foundry, Slither |
+| Languages & basics | Python, Java, Git, GitHub |
 
-<div align="center">
+---
 
-![Arvind's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvindkushwaha55&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D58)
-![GitHub streak](https://streak-stats.demolab.com?user=arvindkushwaha55&hide_border=true&background=FFFFFF&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=434D58&dates=434D58)
+## Connect
 
-</div>
+- **LinkedIn:** [arvind-kushwaha-4290863b0](https://linkedin.com/in/arvind-kushwaha-4290863b0)
+- **Location:** Ghaziabad, India
+- **Currently:** Open to learning, building, and solving harder problems
 
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arvind-kushwaha-4290863b0)
-[![Vyana](https://img.shields.io/badge/Vyana-Visit%20Project-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://vyanahealth.app)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
+*Sharp mind, honest work.*
