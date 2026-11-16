@@ -18,6 +18,12 @@
 
 ## About
 
+I'm an **AI & ML student** — and I don't just study it, I build with it every single day.
+
+Every day I learn something new. Every day my skills get sharper, stronger and more honest than yesterday. I take what I learn and turn it into something real — a model that predicts, an app people can actually use, a dashboard that makes sense, a bug that finally dies.
+
+I don't wait until I feel "ready". I build, I break, I understand, I improve — and then I show up again tomorrow and do it better. Anyone can learn for an exam. I learn to ship.
+
 > **Still learning every day — and that's my weapon, not my weakness.**
  > Yesterday's version of me couldn't build what I shipped today.
 > Give me a problem I don't know how to solve yet — that's exactly where I do my best work.
