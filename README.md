@@ -1,70 +1,88 @@
+<div align="center">
+
 # Arvind Kushwaha
 
 ### Problem Solver
 
-> I find what's broken, understand *why* it's broken, and ship a fix that lasts.
+*I find what's broken, understand why it's broken, and ship a fix that lasts.*
 
-B.Tech student in **AI & ML at Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad**.
-I build user-facing software — web, mobile and desktop — and I test it like someone who will have to answer for it in an interview: honestly, and down to the details.
+**B.Tech student in AI & ML** · Ghaziabad, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arvind-kushwaha-4290863b0)
+[![PREDICAI Live](https://img.shields.io/badge/PREDICAI-Live%20Dashboard-0F766E?style=for-the-badge)](https://arvindkushwaha55.github.io/PREDICAI/)
+[![Campora Live](https://img.shields.io/badge/Campora-Live%20App-111827?style=for-the-badge)](https://arvindkushwaha55.github.io/campora/)
+
+</div>
+
+---
+
+## About
+
+I build user-facing software — **web, mobile, desktop and ML dashboards** — and I test it like someone who will have to answer for it in an interview: honestly, and down to the details.
 
 Still learning every day. I say that proudly.
 
 ---
 
-## Right now
+## Featured Work
 
-- Building the **web + mobile UI for [Vyana](https://vyanahealth.app)** — the screens patients use for medicines, lab reports and care plans
-- Developing **[SENTIQX](https://github.com/arvindkushwaha55/SENTIQX)** — an AI work companion for Windows, in development
-- Keeping **[Campora](https://arvindkushwaha55.github.io/campora/)** live — a campus social app for my college
+| Project | What it is | Link |
+|---|---|---|
+| **PREDICAI** | Predictive maintenance platform — LSTM model, Rust edge API and a live dashboard | [Repo](https://github.com/arvindkushwaha55/PREDICAI) · [Live](https://arvindkushwaha55.github.io/PREDICAI/) |
+| **Campora** | Campus social app, built and shipped end to end | [Repo](https://github.com/arvindkushwaha55/campora) · [Live](https://arvindkushwaha55.github.io/campora/) |
+| **SENTIQX** | AI work companion for Windows — Tauri desktop app | [Repo](https://github.com/arvindkushwaha55/SENTIQX) |
+| **Vyana** | Healthcare product — I work on its web + mobile UI | [Website](https://vyanahealth.app) |
 
 ---
 
-## Work
+## Projects in Detail
 
-### Vyana — Web & Mobile UI
-Contributor on the user-facing side of a healthcare product.
+### [PREDICAI](https://github.com/arvindkushwaha55/PREDICAI) — Predictive Maintenance Platform
+*Python · PyTorch · Rust · React · TypeScript*
 
-- Phone design system and shared components, so screens stop drifting apart
-- Welcome & Today screens, reports and charts, care plans
-- The small, unglamorous fixes that make every screen feel like one app
-
-**Stack:** TypeScript · React · React Native · Expo
+- LSTM model on NASA C-MAPSS FD001 for Remaining Useful Life prediction — **RMSE 13.73**
+- Rust edge API serving the same model, verified to match the Python prediction exactly
+- Experiments across **10 datasets** with honest results — including the approaches that failed
+- Live dashboard with fleet views, diagnostics and explainability
 
 ### [Campora](https://github.com/arvindkushwaha55/campora) — Campus Social App · [Live ↗](https://arvindkushwaha55.github.io/campora/)
-A college-only social app I built and shipped end to end.
+*Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Supabase*
 
-- College-email-only signup, verified by the database — not just hidden in the UI
-- Feed, likes, comments, student discovery, profiles and admin moderation
-- Content moderation in the app *and* as a database backstop, plus on-device photo screening
+- Built and shipped end to end — feed, likes, comments, discovery, profiles and admin moderation
+- Verified signup enforced by the database, not just hidden in the UI
+- Content moderation in the app and as a database backstop, plus on-device photo screening
 - No fake counts, no mock data — everything on the live site is real data
 
-**Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Supabase
+### [SENTIQX](https://github.com/arvindkushwaha55/SENTIQX) — AI Work Companion for Windows
+*Tauri 2 · React · TypeScript · Rust · SQLite*
 
-### [SENTIQX](https://github.com/arvindkushwaha55/SENTIQX) — AI Work Companion for Windows · *In Development*
-A desktop companion that watches your work context and helps you stay on track.
+- Landscape desktop app with dual themes, built from my own design direction
+- **Intent Guard** — warns before text meant for one app gets pasted into the wrong place
+- **Zone Awareness** — understands split-screen workspace zones instead of guessing
+- Native / OS work in Rust, UI in TypeScript — each layer where it belongs
+- Final release build verified on a real Windows machine
 
-- Landscape desktop window with dual themes, built step by step from my own design direction
-- Intent Guard — warns before text meant for one app gets pasted into the wrong place
-- Workspace Zone Awareness — understands split-screen zones instead of guessing
-- Native / OS work in Rust, UI and light logic in TypeScript — each layer where it belongs
+### Vyana — Web & Mobile UI
+*TypeScript · React · React Native · Expo*
 
-**Stack:** Tauri 2 · React · TypeScript · Tailwind CSS · Rust · SQLite
+- Contributor on the user-facing side of a healthcare product
+- Phone design system and shared components, so screens stop drifting apart
+- Welcome & Today screens, reports and charts, care plans — and the small fixes that make every screen feel like one app
 
 ### DermaGuard — Team Project
 Agentic AI project built with my team for the **Jaypee Agentic AI International Summit 2026, JIIT Noida (30–31 Oct 2026)**.
 
 ### GPUChain — Independent Testing & Security Review
+*Foundry · Slither · Solidity (testing & review)*
+
 The main contract was the team lead's. My part was trying to break it — independently.
 
 - Independent Foundry test suites — full suite **99/99 passing**
 - Slither analysis — **0 High / 0 Medium** findings
-- Timestamp-edge cases, adversarial review, and a local deploy rehearsal
-
-**Stack:** Foundry · Slither · Solidity (testing & review)
 
 ---
 
-## How I work
+## How I Work
 
 - **Problem first, code second** — understand what is broken and why, then fix it properly
 - **Simple is better** — if a user can't understand a screen in 5 seconds, the screen is wrong
@@ -73,23 +91,35 @@ The main contract was the team lead's. My part was trying to break it — indepe
 
 ---
 
-## Tools I actually use
+## Tech I Use
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 | Area | Tools |
 |---|---|
 | Frontend | TypeScript, React, Next.js, React Native, Expo, Tailwind CSS |
-| Desktop & data | Tauri, Rust, Supabase, SQLite |
+| Desktop, ML & data | Tauri, Rust, Python, PyTorch, Supabase, SQLite |
 | Testing & review | Foundry, Slither |
-| Languages & basics | Python, Java, Git, GitHub |
+| Basics | Java, Git, GitHub |
 
 ---
 
-## Connect
+<div align="center">
 
-- **LinkedIn:** [arvind-kushwaha-4290863b0](https://linkedin.com/in/arvind-kushwaha-4290863b0)
-- **Location:** Ghaziabad, India
-- **Currently:** Open to learning, building, and solving harder problems
+**Sharp mind, honest work.**
 
----
+[LinkedIn](https://linkedin.com/in/arvind-kushwaha-4290863b0) · Ghaziabad, India
 
-*Sharp mind, honest work.*
+</div>
