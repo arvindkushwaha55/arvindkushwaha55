@@ -1,13 +1,6 @@
 <div align="center">
 
 # Arvind Kushwaha
-
-### Problem Solver
-
-*I find what's broken, understand why it's broken, and ship a fix that lasts.*
-
-**B.Tech student in AI & ML** · Ghaziabad, India
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arvind-kushwaha-4290863b0)
 [![PREDICAI Live](https://img.shields.io/badge/PREDICAI-Live%20Dashboard-0F766E?style=for-the-badge)](https://arvindkushwaha55.github.io/PREDICAI/)
 [![Campora Live](https://img.shields.io/badge/Campora-Live%20App-111827?style=for-the-badge)](https://arvindkushwaha55.github.io/campora/)
