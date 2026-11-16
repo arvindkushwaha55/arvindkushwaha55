@@ -18,8 +18,6 @@
 
 ## About
 
-I build user-facing software — **web, mobile, desktop and ML dashboards** — and I test it like someone who will have to answer for it in an interview: honestly, and down to the details.
-
 > **Still learning every day — and that's my weapon, not my weakness.**
  > Yesterday's version of me couldn't build what I shipped today.
 > Give me a problem I don't know how to solve yet — that's exactly where I do my best work.
